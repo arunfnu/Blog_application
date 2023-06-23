@@ -1,2 +1,2 @@
 # Blog_application
-Java Based application build with maven tool
+Java Based application built with maven tool.
